@@ -89,6 +89,6 @@ Venho me aprofundando em conceitos de algoritmos, estruturas de repetição e co
 <br/>
 <br/>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=martins20023&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)](https://github.com/stats-organization/github-stats-extended)
- ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=martins20023&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&langs_count=4)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=martinsdev2002&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)](https://github.com/stats-organization/github-stats-extended)
+ ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=martinsdev2002&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&langs_count=4)
 
