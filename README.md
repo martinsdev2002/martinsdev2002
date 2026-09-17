@@ -2,11 +2,11 @@
 
 **💻 Dev em formação**
 
-Olá! Me chamo Lucas Martins Vieira Lima, tenho 24 anos e sou natural de São Paulo. Concluí o ensino médio e, atualmente, estou cursando Ciência da Computação na UNIFRAN (Universidade de Franca).
+Olá! Me chamo Lucas Martins Vieira Lima, tenho 24 anos e sou natural de Franca - São Paulo. Concluí o ensino médio e, atualmente, estou cursando Ciência da Computação na UNIFRAN (Universidade de Franca).
 
 🎓 Estudante de Ciência da Computação | 💻 Dev em formação | 🎨 Design de Interfaces
 
-Sou estudante do 2º semestre de Ciência da Computação, apaixonado por tecnologia e resolução de problemas através do código. Tenho conhecimento em lógica de programação, Programação Orientada a Objetos (POO), estruturas de dados básicas e Python. Também atuo com HTML, CSS e design de interfaces web, unindo lógica de programação com experiência do usuário.
+Sou estudante do 2º semestre de Ciência da Computação, apaixonado por tecnologia e resolução de problemas através do código. Tenho conhecimento em lógica de programação, Programação Orientada a Objetos (POO), estruturas de dados básicas, banco de dados e Python. Também atuo com HTML, CSS e design de interfaces web, unindo lógica de programação com experiência do usuário.
 
 Venho me aprofundando em conceitos de algoritmos, estruturas de repetição e controle, manipulação de dados, versionamento com Git/GitHub e boas práticas de desenvolvimento. Busco constantemente novos desafios para aplicar e expandir meus conhecimentos, seja em projetos acadêmicos, pessoais ou freelas.
 
