@@ -93,6 +93,15 @@ Venho me aprofundando em conceitos de algoritmos, estruturas de repetição e co
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
 />
+<img
+    align="left"
+    alt="VSCODE"
+    title="VSCODE"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+
 
 <br/>
 <br/>
